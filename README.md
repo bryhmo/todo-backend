@@ -2,8 +2,8 @@
 
 > A secure, production-ready REST API for the TodoApp built with NestJS, TypeORM and MySQL. Features JWT authentication, full CRUD for todos and user-based data isolation.
 
-🌐 **Live API:** [your-backend.railway.app](https://your-backend.railway.app)  
-🔗 **Frontend Repo:** [github.com/bryhmo/todo-frontend](https://github.com/bryhmo/todo-frontend)
+🌐 **Live API:** https://todo-backend-production-cd36.up.railway.app/  
+🔗 **Frontend Repo:** https://github.com/bryhmo/todo-frontend
 
 ---
 
@@ -237,9 +237,9 @@ DELETE /api/todos/:id
 
 Built by **Isiaka Ibrahim** — Full Stack Developer & Lecturer from Nigeria 🇳🇬
 
-- 🌐 Portfolio: [your-portfolio.vercel.app](https://your-portfolio.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/techwithbrymo](https://www.linkedin.com/in/techwithbrymo)
-- 🐙 GitHub: [github.com/bryhmo](https://github.com/bryhmo)
+- 🌐 Portfolio: https://portfolio-isiaka-ibrahim.vercel.app/
+- 💼 LinkedIn:  https://www.linkedin.com/in/techwithbrymo
+- 🐙 GitHub: https://github.com/bryhmo
 
 ---
 
